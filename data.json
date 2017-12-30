@@ -1,11 +1,9 @@
-{
-	"films": {
-		"1": {
-			"name": "Alle For Tre",
-			"year": 2014,
-			"length": 97,
-			"stars": 4,
-			"description": "Brødrene Timo og Ralf er stadig i gang med små fupnumre for at skaffe lidt kontanter her og der. Da Ralf i sidste øjeblik forpurrer Timos ellers udmærket udførte solarie-og-kobberkogle-kup, og deres far Arno uventet stempler ud, må brødrene ile til Italien for at få fingre i Arnos antikke veteranmotorcykel. Arnos ukendte arving har dog sin egen agenda, så for at holde sammen på familien må Timo og Ralf infiltrere en chinchillafarm, snøre en gal pelsmillionær, sniffe rå oliven, lokke deres ven Nikolai tilbage i folden og lære at samarbejde med deres nyfundne søster - alt sammen for at lave deres største, vildeste og vigtigste kup til dato."
-		}
-		}
-}
+[
+	{
+		"name": "Alle For Tre",
+		"year": 2014,
+		"length": 97,
+		"stars": 4,
+		"description": "Brødrene Timo og Ralf er stadig i gang med små fupnumre for at skaffe lidt kontanter her og der. Da Ralf i sidste øjeblik forpurrer Timos ellers udmærket udførte solarie-og-kobberkogle-kup, og deres far Arno uventet stempler ud, må brødrene ile til Italien for at få fingre i Arnos antikke veteranmotorcykel. Arnos ukendte arving har dog sin egen agenda, så for at holde sammen på familien må Timo og Ralf infiltrere en chinchillafarm, snøre en gal pelsmillionær, sniffe rå oliven, lokke deres ven Nikolai tilbage i folden og lære at samarbejde med deres nyfundne søster - alt sammen for at lave deres største, vildeste og vigtigste kup til dato."
+	}
+]
